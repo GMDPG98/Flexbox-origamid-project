@@ -1,7 +1,7 @@
 # Flexbox-origamid-project
 Projeto realizado na plataforma Origamid, no curso CSS Flexbox.
 
-O objetivo do projeto era desenvolver um blog estático usando prorpiedades de CSS Flexbox.
+O objetivo do projeto era desenvolver um blog estático usando propriedades de CSS Flexbox.
 
 # English Version
 
